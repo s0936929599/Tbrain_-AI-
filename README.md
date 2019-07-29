@@ -1,3 +1,3 @@
 # Tbrain_Estate-prediction
 
-## 121/1330 (Top9%)
+## 115/1330 (Top8%)
